@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db5141d3-ac58-4ade-abb1-220b60dd06ba" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="v-im" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectId" id="1RP5IzxLqUKFzBKb1T3OhcXIUAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563193276736" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/icon" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Code\cilentCode\Chat-Client\node_modules\prettier" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="D:\Java\webStrom\WebStorm 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/static/audio/9945.wav" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Company\V-IM-JT\static" />
+      <recent name="D:\Company\V-IM-JT\src\renderer\views\im\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\cilentCode\Chat-Client\static\icon" />
+      <recent name="D:\Company\Chat-Client\static\img" />
+      <recent name="D:\Company\V-IM-JT\src\renderer\assets" />
+      <recent name="D:\Company\V-IM-JT\static" />
+      <recent name="D:\Company\V-IM-JT\static\icon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5141d3-ac58-4ade-abb1-220b60dd06ba" name="Default Changelist" comment="" />
+      <created>1553250362260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553250362260</updated>
+      <workItem from="1553250363545" duration="1065000" />
+      <workItem from="1553314756243" duration="1671000" />
+      <workItem from="1553331417247" duration="92000" />
+      <workItem from="1554454523549" duration="41000" />
+      <workItem from="1554454584635" duration="6505000" />
+      <workItem from="1554948888346" duration="599000" />
+      <workItem from="1555042317057" duration="597000" />
+      <workItem from="1555644950089" duration="8006000" />
+      <workItem from="1555669587258" duration="2787000" />
+      <workItem from="1555730778820" duration="1887000" />
+      <workItem from="1555900961698" duration="3024000" />
+      <workItem from="1555904303144" duration="16160000" />
+      <workItem from="1555929921886" duration="8538000" />
+      <workItem from="1555992697307" duration="690000" />
+      <workItem from="1555993509957" duration="261000" />
+      <workItem from="1555993990552" duration="519000" />
+      <workItem from="1555995984703" duration="2971000" />
+      <workItem from="1556006320518" duration="3932000" />
+      <workItem from="1556010336265" duration="2915000" />
+      <workItem from="1556015532526" duration="4424000" />
+      <workItem from="1556088816632" duration="19836000" />
+      <workItem from="1556166875447" duration="5344000" />
+      <workItem from="1556183681238" duration="12071000" />
+      <workItem from="1556333493467" duration="599000" />
+      <workItem from="1556334788534" duration="6354000" />
+      <workItem from="1556353284982" duration="3361000" />
+      <workItem from="1556360845928" duration="1903000" />
+      <workItem from="1556366179732" duration="1799000" />
+      <workItem from="1556505125978" duration="9627000" />
+      <workItem from="1556521380674" duration="2000" />
+      <workItem from="1556521432353" duration="13098000" />
+      <workItem from="1556592301810" duration="4435000" />
+      <workItem from="1556769492535" duration="108000" />
+      <workItem from="1556769787198" duration="436000" />
+      <workItem from="1556770797383" duration="1137000" />
+      <workItem from="1556774183368" duration="3101000" />
+      <workItem from="1556781057269" duration="3528000" />
+      <workItem from="1556785993600" duration="1570000" />
+      <workItem from="1556788381209" duration="7778000" />
+      <workItem from="1556796213428" duration="1198000" />
+      <workItem from="1556850488342" duration="5850000" />
+      <workItem from="1556937322772" duration="1162000" />
+      <workItem from="1557109738510" duration="598000" />
+      <workItem from="1557141765684" duration="1327000" />
+      <workItem from="1557196131390" duration="1965000" />
+      <workItem from="1557198302585" duration="583000" />
+      <workItem from="1557199115617" duration="1044000" />
+      <workItem from="1557200241652" duration="1176000" />
+      <workItem from="1557201741630" duration="279000" />
+      <workItem from="1557202214330" duration="1203000" />
+      <workItem from="1557203494786" duration="207000" />
+      <workItem from="1557203774038" duration="222000" />
+      <workItem from="1557204245183" duration="509000" />
+      <workItem from="1557205116251" duration="398000" />
+      <workItem from="1557205593223" duration="31000" />
+      <workItem from="1557213200028" duration="1979000" />
+      <workItem from="1557299835065" duration="6415000" />
+      <workItem from="1557369079413" duration="7826000" />
+      <workItem from="1557386064953" duration="13350000" />
+      <workItem from="1557403473100" duration="866000" />
+      <workItem from="1557455916592" duration="3736000" />
+      <workItem from="1557476602349" duration="9024000" />
+      <workItem from="1557542093615" duration="7113000" />
+      <workItem from="1557549586303" duration="8212000" />
+      <workItem from="1557562709903" duration="11251000" />
+      <workItem from="1557714675811" duration="15872000" />
+      <workItem from="1557804171020" duration="1768000" />
+      <workItem from="1557816252384" duration="10275000" />
+      <workItem from="1557829801173" duration="3557000" />
+      <workItem from="1557890306849" duration="21004000" />
+      <workItem from="1557974595919" duration="3650000" />
+      <workItem from="1557979746955" duration="5804000" />
+      <workItem from="1557996442886" duration="2599000" />
+      <workItem from="1557999259421" duration="502000" />
+      <workItem from="1558000702102" duration="1911000" />
+      <workItem from="1558060726572" duration="2917000" />
+      <workItem from="1558092243253" duration="106000" />
+      <workItem from="1558092370052" duration="235000" />
+      <workItem from="1558147018464" duration="599000" />
+      <workItem from="1558324378053" duration="15716000" />
+      <workItem from="1558347610875" duration="3734000" />
+      <workItem from="1558405988287" duration="12203000" />
+      <workItem from="1558426646634" duration="5541000" />
+      <workItem from="1558435040653" duration="2766000" />
+      <workItem from="1558494217853" duration="9702000" />
+      <workItem from="1558580476973" duration="1257000" />
+      <workItem from="1558665350784" duration="17233000" />
+      <workItem from="1558691213882" duration="2323000" />
+      <workItem from="1558694624102" duration="4818000" />
+      <workItem from="1558701477892" duration="5875000" />
+      <workItem from="1558754454658" duration="13459000" />
+      <workItem from="1558780795296" duration="3000" />
+      <workItem from="1558780829292" duration="4073000" />
+      <workItem from="1558943957149" duration="5105000" />
+      <workItem from="1559013243518" duration="6246000" />
+      <workItem from="1559019962703" duration="11451000" />
+      <workItem from="1559037421040" duration="765000" />
+      <workItem from="1559040604337" duration="424000" />
+      <workItem from="1559098600660" duration="14120000" />
+      <workItem from="1559186876384" duration="3300000" />
+      <workItem from="1559193058236" duration="5257000" />
+      <workItem from="1559214032881" duration="5073000" />
+      <workItem from="1559356265989" duration="3105000" />
+      <workItem from="1559530829238" duration="13411000" />
+      <workItem from="1559643222247" duration="1923000" />
+      <workItem from="1559702087108" duration="4562000" />
+      <workItem from="1559711957502" duration="14634000" />
+      <workItem from="1559734622746" duration="342000" />
+      <workItem from="1559790719319" duration="502000" />
+      <workItem from="1559791784618" duration="11212000" />
+      <workItem from="1559815790210" duration="17323000" />
+      <workItem from="1559961186982" duration="8928000" />
+      <workItem from="1559985432170" duration="1447000" />
+      <workItem from="1560134360078" duration="9965000" />
+      <workItem from="1560164554804" duration="16000" />
+      <workItem from="1560221593832" duration="1387000" />
+      <workItem from="1560223064966" duration="13434000" />
+      <workItem from="1560246107936" duration="8515000" />
+      <workItem from="1560310023398" duration="3471000" />
+      <workItem from="1560313523279" duration="14303000" />
+      <workItem from="1560338176521" duration="5104000" />
+      <workItem from="1560397949855" duration="6227000" />
+      <workItem from="1560480868433" duration="1227000" />
+      <workItem from="1560484942134" duration="8356000" />
+      <workItem from="1560739045331" duration="11234000" />
+      <workItem from="1560825714712" duration="8920000" />
+      <workItem from="1560912446693" duration="1675000" />
+      <workItem from="1560916508146" duration="599000" />
+      <workItem from="1560937458664" duration="389000" />
+      <workItem from="1560938442755" duration="18000" />
+      <workItem from="1560938733468" duration="560000" />
+      <workItem from="1560940415373" duration="42000" />
+      <workItem from="1561020035075" duration="194000" />
+      <workItem from="1561027508995" duration="467000" />
+      <workItem from="1561028434218" duration="58000" />
+      <workItem from="1561088061441" duration="692000" />
+      <workItem from="1561088774452" duration="72000" />
+      <workItem from="1561089130810" duration="994000" />
+      <workItem from="1561112558837" duration="33000" />
+      <workItem from="1561113699413" duration="829000" />
+      <workItem from="1561179469051" duration="39000" />
+      <workItem from="1561180717739" duration="10000" />
+      <workItem from="1561195680183" duration="811000" />
+      <workItem from="1561345218776" duration="9825000" />
+      <workItem from="1561364586648" duration="599000" />
+      <workItem from="1561430323526" duration="40364000" />
+      <workItem from="1561712558337" duration="24630000" />
+      <workItem from="1562040130853" duration="11450000" />
+      <workItem from="1562057580443" duration="1650000" />
+      <workItem from="1562127141903" duration="50927000" />
+      <workItem from="1562297777692" duration="52696000" />
+      <workItem from="1562410803777" duration="2691000" />
+      <workItem from="1562507236043" duration="19764000" />
+      <workItem from="1562571544462" duration="615000" />
+      <workItem from="1562573189340" duration="8042000" />
+      <workItem from="1562584953185" duration="5529000" />
+      <workItem from="1562592934389" duration="6145000" />
+      <workItem from="1562647903988" duration="28582000" />
+      <workItem from="1562730483025" duration="2627000" />
+      <workItem from="1562747795353" duration="10912000" />
+      <workItem from="1562899019543" duration="2266000" />
+      <workItem from="1562901536615" duration="4250000" />
+      <workItem from="1562927447338" duration="667000" />
+      <workItem from="1562929325586" duration="371000" />
+      <workItem from="1562935892909" duration="24000" />
+      <workItem from="1562984147245" duration="16620000" />
+      <workItem from="1563155789147" duration="1209000" />
+      <workItem from="1563161286995" duration="22117000" />
+      <workItem from="1563243847082" duration="5017000" />
+      <workItem from="1563264365096" duration="97000" />
+      <workItem from="1563266735414" duration="4876000" />
+      <workItem from="1563330611469" duration="60000" />
+      <workItem from="1563330688546" duration="161000" />
+      <workItem from="1563330875942" duration="17000" />
+      <workItem from="1563332494038" duration="2293000" />
+      <workItem from="1563526962578" duration="1851000" />
+      <workItem from="1563952650736" duration="85000" />
+      <workItem from="1564036021592" duration="1833000" />
+      <workItem from="1564714880647" duration="29000" />
+      <workItem from="1564714978198" duration="3000" />
+      <workItem from="1564715302565" duration="76000" />
+      <workItem from="1564727241458" duration="1885000" />
+      <workItem from="1564739043412" duration="55000" />
+      <workItem from="1564739645267" duration="9537000" />
+      <workItem from="1564989905544" duration="2666000" />
+      <workItem from="1569555817650" duration="17713000" />
+      <workItem from="1569638865824" duration="4438000" />
+      <workItem from="1569644210553" duration="22555000" />
+      <workItem from="1569675033872" duration="9886000" />
+      <workItem from="1569810521084" duration="863000" />
+      <workItem from="1569811767225" duration="31163000" />
+      <workItem from="1569989161218" duration="11145000" />
+      <workItem from="1570006997611" duration="12956000" />
+      <workItem from="1570072311652" duration="9371000" />
+      <workItem from="1570089965179" duration="19451000" />
+      <workItem from="1570175711682" duration="23550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/components/chatInput.vue</url>
+          <line>102</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/friendsBox.vue</url>
+          <line>245</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/utils/chatUtils.js</url>
+          <line>70</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/chatBox.vue</url>
+          <line>187</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/chatBox.vue</url>
+          <line>223</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/chatBox.vue</url>
+          <line>236</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>172</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>125</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>214</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>165</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>104</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>114</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/store/index.js</url>
+          <line>115</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/components/chat.vue</url>
+          <line>763</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/userBox.vue</url>
+          <line>390</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/userBox.vue</url>
+          <line>408</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/userBox.vue</url>
+          <line>431</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/userBox.vue</url>
+          <line>421</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/renderer/views/im/layout/chatBox.vue</url>
+          <line>193</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>v-im</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
